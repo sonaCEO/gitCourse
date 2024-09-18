@@ -1,1 +1,2 @@
-document.body.innerHTML = '<h1>Hello from javascript</h1>'
+document.body.innerHTML = '<h1>Hello from javascript</h1>';
+console.log('text 2')
